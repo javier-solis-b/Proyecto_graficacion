@@ -1,3 +1,6 @@
+#Proyecto final por:
+#Francisco Javier Solis Bamaca
+#Paola Jadziry Culebro Ovando
 import pandas as pd
 import matplotlib.pyplot as plt
 from sklearn.linear_model import LinearRegression
